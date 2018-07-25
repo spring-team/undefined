@@ -1,3 +1,5 @@
+// Life is psychologically difficult for everybody.
+
 package undefined;
 
 import org.springframework.context.annotation.Configuration;
